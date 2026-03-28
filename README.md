@@ -1,29 +1,35 @@
 # 👋 Hello, I'm Adelyn!
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer and Product Owner with a strong focus on streamlining processes, enhancing team collaboration, and delivering high-quality products.
+Welcome to my GitHub profile! I'm a passionate **AI-augmented DevOps Engineer** and **Product Owner** with a strong focus on integrating AI into engineering workflows, streamlining processes, and delivering high-quality products at scale.
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: Terraform, and Cloud Native Solutions
-- 🔭 I’m working on: Automating CI/CD pipelines, improving deployment strategies and DevSecOps
-- 👯 I’m looking to collaborate on: Infrastructure as Code projects and agile product development
-- 🤔 I’m looking for help with: Advanced cloud architecture and scaling applications
-- 💬 Ask me about: DevOps best practices, product management, and agile methodologies
-- 📫 How to reach me: [email](adelynlph@gmail.com "Nice to meet you")
+- 🌱 **Currently learning:** AI/ML Ops, LLM integration in DevOps pipelines, and Cloud Native Solutions
+- 🔭 **Working on:** AI-assisted CI/CD automation, intelligent deployment strategies, and DevSecOps
+- 👯 **Looking to collaborate on:** AI-driven Infrastructure as Code, MLOps pipelines, and agile product development
+- 🤔 **Looking for help with:** Advanced cloud architecture, scaling AI workloads, and LLMOps best practices
+- 💬 **Ask me about:** DevOps best practices, platform engineering, AI integration in software delivery, and scaled agile
+- 📫 **Reach me at:** [adelynlph@gmail.com](mailto:adelynlph@gmail.com)
+
+---
 
 ## 🛠️ Technologies & Tools
 
-Ordered by proficiency and/or current frequency of use:
-
 - **Languages:** Bash, Groovy, Python
-- **DevOps Tools:** Jenkins, Kubernetes, Github Actions, Gitlab CI, Ansible, Git, Terraform
-- **Cloud Providers:** VMWare vCenter, AWS, Azure, Google Cloud Platform
-- **Project Management:** Jira, Agile methodologies
+- **DevOps & CI/CD:** Jenkins, GitHub Actions, GitLab CI, Ansible, Git, Terraform
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
+- **Observability:** Prometheus, Grafana, OpenTelemetry
+- **AI & MLOps:** MLflow, AI-assisted pipelines, LLM integration
+- **Cloud Providers:** AWS, Azure, Google Cloud Platform
+- **Project Management:** Jira, SAFe (Scaled Agile Framework), Agile methodologies
 
+---
 
-## 🔗 Let's Meet
+## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/adelynlim/)
-- [Personal Website/Portfolio](your-website-url)
+- [Email](mailto:adelynlph@gmail.com)
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to connect or collaborate!
